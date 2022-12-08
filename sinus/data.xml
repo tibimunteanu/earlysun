@@ -233,8 +233,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Demo Trailer</name>
-      <!-- <youtube>8MRKh6xQV0M</youtube> -->
+      <name>Sinus - Reveal Trailer</name>
+      <youtube>DS7zNPC27sQ</youtube>
     </trailer>
   </trailers>
 
@@ -254,14 +254,14 @@
   <widgets>
     <!-- <appstore>950812012</appstore> -->
     <!-- <playstore>com.noodlecake.altosadventure</playstore> -->
+    <!-- <steam>2194370</steam> -->
     <steam>1966400</steam>
+
     <!-- <mailchimp>//url.us3.list-manage.com/subscribe/post?u=USER_ID&amp;id=LIST_ID</mailchimp> -->
-    <mailchimp>//gmail.us14.list-manage.com/subscribe?u=f3b502cf508004b254990b191&amp;id=472518f8b9</mailchimp>
     <!-- <humble>steredenn/7SDLfk23hw</humble> -->
     <!-- <itch>27992</itch> -->
     <!-- <bandcamp>1135613467</bandcamp> -->
   </widgets>
-
   <!-- ## Awards, quotes & links -->
 
   <!--
