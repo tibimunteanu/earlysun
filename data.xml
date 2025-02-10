@@ -44,9 +44,9 @@
     Don't forget to specify the country.
   -->
   <address>
-    <line>Aleea MINERVA, Nr. 6</line>
-    <line>Biroul 9, Scara D, Ap. 2</line>
+    <line>Str. Junilor, Nr. 6, Biroul 1</line>
     <line>Brasov, Romania</line>
+    <line>Postal code: 500113</line>
   </address>
 
   <!--
@@ -57,8 +57,8 @@
   -->
   <socials>
     <social>
-      <name>Twitter @earlysungames</name>
-      <link>https://twitter.com/earlysungames</link>
+      <name>X @earlysungames</name>
+      <link>https://x.com/earlysungames</link>
     </social>
     <social>
       <name>Facebook</name>
@@ -245,9 +245,9 @@
       <mail>earlysungames@gmail.com</mail>
     </contact>
     <contact>
-      <name>Twitter</name>
+      <name>X</name>
       <link>
-        https://twitter.com/earlysungames
+        https://x.com/earlysungames
       </link>
     </contact>
     <contact>

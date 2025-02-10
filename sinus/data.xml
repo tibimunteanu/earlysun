@@ -188,31 +188,34 @@
       Fluid player movement and twin-stick shooting, with unlockable special moves
     </feature>
     <feature>
-      A LOT of loot and secrets
+      Millions of fierce weapons
     </feature>
     <feature>
-      Unique hacking mechanics
+      Capture any enemy to fight for you
     </feature>
     <feature>
-      Level up system
+      Take control of powerful turrets
     </feature>
     <feature>
-      Multiple playable characters
+      Infinite replayability through procedurally generated levels
     </feature>
     <feature>
-      Variety gameplay (shooting, hacking, trap courses, enemy waves)
+      Multiple playable characters with different traits and abilities to suit any playstyle
     </feature>
     <feature>
-      Locked doors with different types of keys and switches
+      Interesting skills and items that add new mechanics
     </feature>
     <feature>
-      Missions, side missions and contracts
+      Plenty of optional routes for extra loot or upgrades
     </feature>
     <feature>
-      Rarity based items and enemies 
+      Multiple endings based on your personal progress
     </feature>
     <feature>
-      Smart modularized AI
+      Meta-progression through the ship console to increase your chances in the next run
+    </feature>
+    <feature>
+      A multitude of secrets
     </feature>
   </features>
 
@@ -233,8 +236,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Sinus - Reveal Trailer</name>
-      <youtube>DS7zNPC27sQ</youtube>
+      <name>Sinus - Demo Trailer</name>
+      <youtube>q9ZOglBHFRM</youtube>
     </trailer>
   </trailers>
 
@@ -254,7 +257,7 @@
   <widgets>
     <!-- <appstore>950812012</appstore> -->
     <!-- <playstore>com.noodlecake.altosadventure</playstore> -->
-    <!-- <steam>2194370</steam> -->
+    <steam>2194370</steam>
     <steam>1966400</steam>
 
     <!-- <mailchimp>//url.us3.list-manage.com/subscribe/post?u=USER_ID&amp;id=LIST_ID</mailchimp> -->
@@ -325,7 +328,7 @@
     <additional>
       <title>Original Soundtrack (OST)</title>
       <description>Composed by George Urse. Some of the tracks are free to listen at</description>
-      <link>https://www.youtube.com/c/EarlySun</link>
+      <link>https://soundcloud.com/phonic-bomb</link>
     </additional>
     <!-- <additional>
       <title>Release announcement</title>
@@ -396,9 +399,9 @@
       <mail>earlysungames@gmail.com</mail>
     </contact>
     <contact>
-      <name>Twitter</name>
+      <name>X</name>
       <link>
-        https://twitter.com/earlysungames
+        https://x.com/earlysungames
       </link>
     </contact>
     <contact>
